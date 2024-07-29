@@ -1,0 +1,18 @@
+
+.carousel{
+    font-family: poppins; 
+}
+
+.carousel-head{
+    font-family: marck script;
+}
+
+.img-div{
+    position: relative;
+}
+
+.carousel-content{
+    position: absolute;
+    top: 35%;
+    left: 45%;
+}

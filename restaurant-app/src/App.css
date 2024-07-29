@@ -1,0 +1,15 @@
+
+.topBar{
+    height: 50px;
+    background-color: #fecd06;
+    font-family: poppins;
+}
+
+a:link { 
+    text-decoration: none; 
+    color: black;
+  }
+
+.navbar{
+    font-family: poppins;
+}
